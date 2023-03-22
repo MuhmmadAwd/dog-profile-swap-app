@@ -4,11 +4,16 @@ A web application for browsing dog profiles and swiping left or right to
 indicate interest. <br> This project was created as a coding challenge and uses
 JavaScript to generate HTML elements based on an array of dog objects.
 
+<div align="center">
+  <h3>
+    <a href="https://cool-froyo-4acb8c.netlify.app/">
+      Live Demo
+    </a>
+  </h3>
+</div>
+<br>
+
 ![Dog Swipe gif](https://ncf-ec2-east-42-hv.xconvert.com/file/converter/download/4nmrAuTqpQj-z-0-y-641a9eedadc8b904c32cc011.gif)
-
-## Demo
-
-[View live demo](https://cool-froyo-4acb8c.netlify.app/)
 
 ## Table of Contents
 
