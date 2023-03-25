@@ -13,7 +13,7 @@ JavaScript to generate HTML elements based on an array of dog objects.
 </div>
 <br>
 
-![Dog Swipe gif](https://ncf-ec2-east-42-hv.xconvert.com/file/converter/download/4nmrAuTqpQj-z-0-y-641a9eedadc8b904c32cc011.gif)
+![Dog Swipe gif](https://raw.githubusercontent.com/MuhmmadAwd/upload-gif/main/dogs.gif)
 
 ## Table of Contents
 
